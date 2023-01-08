@@ -15,6 +15,6 @@ consisting of nvim, st, dwm and other tools
 2. mount iso on usb or cd for this i used [rufus](https://rufus.ie)
 3. restart device and go into boot loader and startup device using the usb/disk
 4. create 3 partitions
-  1.
-  2.
-  3.
+    1. test
+    2. test
+    3. test
