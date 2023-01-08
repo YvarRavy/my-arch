@@ -12,6 +12,9 @@ consisting of nvim, st, dwm and other tools
   
 ## How to setup arch
 
+note: this setup only works for uefi based bios if you use legacy this probaly won't work for you.
+you can also set up uefi with encryption but i won't use that
+
 1. download iso from [here](https://archlinux.org/download/)
 2. mount iso on usb or cd for this i used [rufus](https://rufus.ie)
 3. restart device and go into boot loader and startup device using the usb/disk
