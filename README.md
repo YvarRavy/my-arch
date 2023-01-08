@@ -8,6 +8,7 @@ consisting of nvim, st, dwm and other tools
   - [suckless terminal(st)](https://st.suckless.org/)
   - [dwm](https://dwm.suckless.org/)
   - [dmenu](https://tools.suckless.org/dmenu/)
+  - [slock](https://tools.suckless.org/slock/)
   
 ## How to setup arch
 
